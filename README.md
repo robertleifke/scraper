@@ -1,7 +1,6 @@
-# Cowtools
+# Insights
 
-Cowtools is a suite of tools to visualize Coincidence of Wants (CoWs) in batch auctions within the Cowswap protocol. The application provides insights into historical volume, showcases a CoWiness leaderboard, and displays data on recent batches.
-
+Insights is a suite of tools to visualize Numo markets. The application showcases historical volume, funding rate per market, and a leaderboard.
 
 ## Screenshot
 
@@ -16,7 +15,7 @@ Cowtools is a suite of tools to visualize Coincidence of Wants (CoWs) in batch a
 - Historical volume chart (based on Recharts)
 - CoWiness leaderboard
 - Recent batches table (based on `@tanstack/react-table`)
-- Data fetching from Subgraphs and [Cowtools API](https://api.cowtools.info) with GraphQL and React Query
+- Data fetching from [Numo API](https://api.numo.trade) using Ponder.
 - Theming and customizable layout with Radix UI components
 - Responsive design for various screen sizes
 
